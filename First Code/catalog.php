@@ -1,10 +1,4 @@
 <?php 
-$catalog = array();
-$catalog[101] = "Design Patterns";
-$catalog[201] = "Forrest Gump";
-$catalog[] = "Beethoven";
-$catalog[] = "Clean Code"; // Faz um push no array 
-
 
 $pageTitle = "Full Catalog";
 $section = null;
